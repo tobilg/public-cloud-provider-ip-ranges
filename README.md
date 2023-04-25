@@ -33,11 +33,10 @@ The generated data can be found in the [data](data/) directory.
 * All: [CSV](data/providers/all.csv) / [Parquet](data/providers/all.parquet)
 
 ### Single providers
-* AWS: [CSV](data/providers/aws.csv) / [Parquet](data/providers/aws.parquet)
-* Azure: [CSV](data/providers/azure.csv) / [Parquet](data/providers/azure.parquet)
-* CloudFlare: [CSV](data/providers/cloudflare.csv) / [Parquet](data/providers/cloudflare.parquet)
-* DigitalOcean: [CSV](data/providers/digitalocean.csv) / [Parquet](data/providers/digitalocean.parquet)
-* Fastly: [CSV](data/providers/fastly.csv) / [Parquet](data/providers/fastly.parquet)
-* Google Cloud: [CSV](data/providers/googlecloud.csv) / [Parquet](data/providers/googlecloud.parquet)
-* Oracle Cloud: [CSV](data/providers/oracle.csv) / [Parquet](data/providers/oracle.parquet)
-
+* AWS: [CSV](raw/main/data/providers/aws.csv) / [Parquet](raw/main/data/providers/aws.parquet)
+* Azure: [CSV](raw/main/data/providers/azure.csv) / [Parquet](raw/main/data/providers/azure.parquet)
+* CloudFlare: [CSV](raw/main/data/providers/cloudflare.csv) / [Parquet](raw/main/data/providers/cloudflare.parquet)
+* DigitalOcean: [CSV](raw/main/data/providers/digitalocean.csv) / [Parquet](raw/main/data/providers/digitalocean.parquet)
+* Fastly: [CSV](raw/main/data/providers/fastly.csv) / [Parquet](raw/main/data/providers/fastly.parquet)
+* Google Cloud: [CSV](raw/main/data/providers/googlecloud.csv) / [Parquet](raw/main/data/providers/googlecloud.parquet)
+* Oracle Cloud: [CSV](raw/main/data/providers/oracle.csv) / [Parquet](raw/main/data/providers/oracle.parquet)

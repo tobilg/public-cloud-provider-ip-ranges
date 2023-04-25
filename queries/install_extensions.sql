@@ -1,0 +1,2 @@
+INSTALL httpfs;
+LOAD httpfs;

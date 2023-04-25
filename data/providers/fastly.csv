@@ -1,0 +1,20 @@
+cloud_provider,cidr_block,ip_address,ip_address_mask,ip_address_cnt,region
+Fastly,103.244.50.0/24,103.244.50.0,24,256,No region
+Fastly,103.245.222.0/23,103.245.222.0,23,512,No region
+Fastly,103.245.224.0/24,103.245.224.0,24,256,No region
+Fastly,104.156.80.0/20,104.156.80.0,20,4096,No region
+Fastly,140.248.128.0/17,140.248.128.0,17,32768,No region
+Fastly,140.248.64.0/18,140.248.64.0,18,16384,No region
+Fastly,146.75.0.0/17,146.75.0.0,17,32768,No region
+Fastly,151.101.0.0/16,151.101.0.0,16,65536,No region
+Fastly,157.52.64.0/18,157.52.64.0,18,16384,No region
+Fastly,167.82.0.0/17,167.82.0.0,17,32768,No region
+Fastly,167.82.128.0/20,167.82.128.0,20,4096,No region
+Fastly,167.82.160.0/20,167.82.160.0,20,4096,No region
+Fastly,167.82.224.0/20,167.82.224.0,20,4096,No region
+Fastly,172.111.64.0/18,172.111.64.0,18,16384,No region
+Fastly,185.31.16.0/22,185.31.16.0,22,1024,No region
+Fastly,199.232.0.0/16,199.232.0.0,16,65536,No region
+Fastly,199.27.72.0/21,199.27.72.0,21,2048,No region
+Fastly,23.235.32.0/20,23.235.32.0,20,4096,No region
+Fastly,43.249.72.0/22,43.249.72.0,22,1024,No region

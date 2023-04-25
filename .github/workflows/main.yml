@@ -1,0 +1,31 @@
+name: Gather public IP address ranges data from different public cloud providers 
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+
+  gather_and_transform_data:
+    name: 
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install DuckDB
+        run: bash scripts/install_duckdb.sh
+
+      - name: Download cloud provider datasets and create DuckDB tables
+        run: bash scripts/download_data.sh
+
+      - name: Export provider data
+        run: bash scripts/export_provider_data.sh
+      
+      - name: Commit and push
+        run: |
+          git config --global user.name 'TobiLG'
+          git config --global user.email 'tobilg@users.noreply.github.com'
+          git commit -am "[no ci] Data update on $(date '+%FT%H:%M:%S')"
+          git push

@@ -24,8 +24,11 @@ jobs:
         run: bash scripts/export_provider_data.sh
       
       - name: Commit and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'TobiLG'
           git config --global user.email 'tobilg@users.noreply.github.com'
+          git remote set-url --push origin https://tobilg:$GITHUB_TOKEN@github.com/tobilg/public-cloud-provider-ip-ranges
           git commit -am "[no ci] Data update on $(date '+%FT%H:%M:%S')"
           git push

@@ -1,6 +1,6 @@
 COPY (SELECT * FROM ip_data ORDER BY cloud_provider, cidr_block) TO 'data/providers/all.csv' WITH (HEADER 1, DELIMITER ',');
 COPY (SELECT * FROM ip_data ORDER BY cloud_provider, cidr_block) TO 'data/providers/all.parquet' (FORMAT 'parquet', COMPRESSION 'SNAPPY');
-COPY (SELECT to_json(list(ip_data)) FROM ip_data ORDER BY cloud_provider, cidr_block) TO 'data/providers/all.json' (FORMAT 'csv', DELIMITER '\0', QUOTE '');
+COPY (SELECT to_json(list(ip_data)) FROM ip_data) TO 'data/providers/all.json' (FORMAT 'csv', DELIMITER '\0', QUOTE '');
 
 COPY (SELECT * FROM ip_data WHERE cloud_provider = 'AWS' ORDER BY cloud_provider, cidr_block) TO 'data/providers/aws.csv' WITH (HEADER 1, DELIMITER ',');
 COPY (SELECT * FROM ip_data WHERE cloud_provider = 'AWS' ORDER BY cloud_provider, cidr_block) TO 'data/providers/aws.parquet' (FORMAT 'parquet', COMPRESSION 'SNAPPY');

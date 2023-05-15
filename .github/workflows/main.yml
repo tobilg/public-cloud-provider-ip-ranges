@@ -1,8 +1,9 @@
 name: Gather public IP address ranges data from different public cloud providers 
 
 on:
-  push:
-    branches: [ main ]
+  schedule:
+    # Run everyday at 4AM UTC
+    - cron:  '0 4 * * *'
 
 jobs:
 

@@ -5,7 +5,7 @@ This repository provides unified and cleaned datasets for public cloud provider 
 The following public cloud providers are covered by this repo:
 
 * [AWS](https://ip-ranges.amazonaws.com/ip-ranges.json)
-* [Azure](https://download.microsoft.com/download/7/1/D/71D86715-5596-4529-9B13-DA13A5DE5B63/ServiceTags_Public_20230417.json)
+* [Azure](https://download.microsoft.com/download/7/1/D/71D86715-5596-4529-9B13-DA13A5DE5B63/ServiceTags_Public_20230508.json)
 * [CloudFlare](https://www.cloudflare.com/ips-v4)
 * [DigitalOcean](https://digitalocean.com/geo/google.csv)
 * [Fastly](https://api.fastly.com/public-ip-list)
@@ -40,3 +40,6 @@ The generated data can be found in the [data](data/) directory.
 * Fastly: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/fastly.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/fastly.parquet)
 * Google Cloud: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/googlecloud.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/googlecloud.parquet)
 * Oracle Cloud: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/oracle.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/oracle.parquet)
+
+## Automatic updates
+The CI pipeline will check for AWS IAM docs updates everyday at 4AM UTC, and automatically publish a new patch version if updates are detected.

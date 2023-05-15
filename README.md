@@ -108,17 +108,5 @@ The JSON schema of the exported data is
 }
 ```
 
-### All providers combined
-* All: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/all.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/all.parquet)
-
-### Single providers
-* AWS: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/aws.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/aws.parquet)
-* Azure: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/azure.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/azure.parquet)
-* CloudFlare: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/cloudflare.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/cloudflare.parquet)
-* DigitalOcean: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/digitalocean.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/digitalocean.parquet)
-* Fastly: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/fastly.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/fastly.parquet)
-* Google Cloud: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/googlecloud.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/googlecloud.parquet)
-* Oracle Cloud: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/oracle.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/oracle.parquet)
-
 ## Automatic updates
 The CI pipeline will check for AWS IAM docs updates everyday at 4AM UTC, and automatically publish a new patch version if updates are detected.

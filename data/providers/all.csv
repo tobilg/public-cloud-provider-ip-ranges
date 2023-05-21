@@ -54970,6 +54970,7 @@ Google Cloud,34.28.0.0/14,34.28.0.0,14,262144,us-central1
 Google Cloud,34.32.128.0/17,34.32.128.0,17,32768,europe-west4
 Google Cloud,34.33.0.0/16,34.33.0.0,16,65536,us-central1
 Google Cloud,34.34.0.0/17,34.34.0.0,17,32768,europe-west4
+Google Cloud,34.34.128.0/18,34.34.128.0,18,16384,europe-west1
 Google Cloud,34.36.0.0/16,34.36.0.0,16,65536,global
 Google Cloud,34.64.128.0/22,34.64.128.0,22,1024,asia-northeast3
 Google Cloud,34.64.132.0/22,34.64.132.0,22,1024,asia-northeast3

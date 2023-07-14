@@ -1,6 +1,8 @@
 name: Gather public IP address ranges data from different public cloud providers 
 
 on:
+  workflow_dispatch:
+    
   schedule:
     # Run everyday at 4AM UTC
     - cron:  '0 4 * * *'

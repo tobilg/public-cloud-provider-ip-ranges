@@ -26,7 +26,8 @@ jobs:
       - name: Export provider data
         run: bash scripts/export_provider_data.sh
       
-      - name: Commit and push
+      - name: Check for changes
+        id: check
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -34,5 +35,11 @@ jobs:
           git config --global user.email 'tobilg@users.noreply.github.com'
           git remote set-url --push origin https://tobilg:$GITHUB_TOKEN@github.com/tobilg/public-cloud-provider-ip-ranges
           git add .
+          # Check for changes
+          git diff-index --cached --quiet HEAD || echo '::set-output name=changed::true'
+
+      - name: Eventually publish new data
+        if: ${{ steps.check.outputs.changed == 'true' }}
+        run: |
           git commit -am "[no ci] Data update on $(date '+%FT%H:%M:%S')"
           git push

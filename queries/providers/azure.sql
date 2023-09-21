@@ -19,7 +19,7 @@ CREATE TABLE azure_ip_data AS (
         SELECT 
           unnest(values) AS values
         FROM
-          read_json_auto('https://download.microsoft.com/download/7/1/D/71D86715-5596-4529-9B13-DA13A5DE5B63/ServiceTags_Public_20230918.json', maximum_object_size=20000000)
+          read_json_auto('###AZURE_URL###', maximum_object_size=20000000)
       )
     )
   )

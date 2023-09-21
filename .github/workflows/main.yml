@@ -21,7 +21,7 @@ jobs:
         run: bash scripts/install_duckdb.sh
 
       - name: Install xmllint
-        run: apt-get install libxml2-utils
+        run: sudo apt-get update && sudo apt-get install libxml2-utils
 
       - name: Download cloud provider datasets and create DuckDB tables
         run: bash scripts/download_data.sh

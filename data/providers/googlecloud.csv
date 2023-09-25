@@ -236,6 +236,8 @@ Google Cloud,34.152.72.0/21,34.152.72.0,21,2048,us-east1
 Google Cloud,34.152.80.0/23,34.152.80.0,23,512,europe-west10
 Google Cloud,34.152.84.0/23,34.152.84.0,23,512,me-central2
 Google Cloud,34.152.86.0/23,34.152.86.0,23,512,africa-south1
+Google Cloud,34.153.224.0/24,34.153.224.0,24,256,asia-south2
+Google Cloud,34.153.32.0/24,34.153.32.0,24,256,asia-south2
 Google Cloud,34.154.0.0/16,34.154.0.0,16,65536,europe-west8
 Google Cloud,34.155.0.0/16,34.155.0.0,16,65536,europe-west9
 Google Cloud,34.157.0.0/21,34.157.0.0,21,2048,us-east4

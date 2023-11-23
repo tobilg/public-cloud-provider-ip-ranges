@@ -59411,6 +59411,7 @@ DigitalOcean,64.227.48.0/20,64.227.48.0,20,4096,No region
 DigitalOcean,64.227.64.0/20,64.227.64.0,20,4096,No region
 DigitalOcean,64.227.80.0/20,64.227.80.0,20,4096,No region
 DigitalOcean,64.227.96.0/20,64.227.96.0,20,4096,No region
+DigitalOcean,64.23.128.0/20,64.23.128.0,20,4096,No region
 DigitalOcean,67.205.128.0/20,67.205.128.0,20,4096,No region
 DigitalOcean,67.205.144.0/20,67.205.144.0,20,4096,No region
 DigitalOcean,67.205.160.0/20,67.205.160.0,20,4096,No region
@@ -59438,12 +59439,15 @@ DigitalOcean,68.183.48.0/20,68.183.48.0,20,4096,No region
 DigitalOcean,68.183.64.0/20,68.183.64.0,20,4096,No region
 DigitalOcean,68.183.80.0/20,68.183.80.0,20,4096,No region
 DigitalOcean,68.183.96.0/20,68.183.96.0,20,4096,No region
+DigitalOcean,69.55.48.0/22,69.55.48.0,22,1024,No region
 DigitalOcean,69.55.49.0/24,69.55.49.0,24,256,No region
 DigitalOcean,69.55.54.0/24,69.55.54.0,24,256,No region
 DigitalOcean,69.55.55.0/24,69.55.55.0,24,256,No region
+DigitalOcean,69.55.58.0/23,69.55.58.0,23,512,No region
 DigitalOcean,69.55.59.128/26,69.55.59.128,26,64,No region
 DigitalOcean,69.55.59.192/27,69.55.59.192,27,32,No region
 DigitalOcean,69.55.59.64/26,69.55.59.64,26,64,No region
+DigitalOcean,69.55.60.0/22,69.55.60.0,22,1024,No region
 DigitalOcean,69.55.60.128/26,69.55.60.128,26,64,No region
 DigitalOcean,69.55.60.96/27,69.55.60.96,27,32,No region
 DigitalOcean,69.55.61.64/26,69.55.61.64,26,64,No region

@@ -61238,6 +61238,8 @@ Google Cloud,34.47.128.0/17,34.47.128.0,17,32768,asia-south1
 Google Cloud,34.47.64.0/18,34.47.64.0,18,16384,asia-northeast3
 Google Cloud,34.48.0.0/16,34.48.0.0,16,65536,us-east4
 Google Cloud,34.49.0.0/16,34.49.0.0,16,65536,global
+Google Cloud,34.50.0.0/18,34.50.0.0,18,16384,asia-northeast3
+Google Cloud,34.50.64.0/18,34.50.64.0,18,16384,asia-southeast2
 Google Cloud,34.64.128.0/22,34.64.128.0,22,1024,asia-northeast3
 Google Cloud,34.64.132.0/22,34.64.132.0,22,1024,asia-northeast3
 Google Cloud,34.64.136.0/21,34.64.136.0,21,2048,asia-northeast3

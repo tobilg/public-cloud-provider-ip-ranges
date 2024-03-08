@@ -7,8 +7,8 @@ CREATE TABLE cloudflare_ip_data AS (
     'No region' AS region
   FROM (
     SELECT
-      column0 AS prefixes
+      prefixes
     FROM
-      read_csv_auto('https://www.cloudflare.com/ips-v4')
+      read_csv_auto('/tmp/cloudflare.txt', columns = {'prefixes': 'VARCHAR'}, ignore_errors = true)
   )
 );

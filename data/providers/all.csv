@@ -62172,8 +62172,10 @@ DigitalOcean,147.182.240.0/20,147.182.240.0,20,4096,No region
 DigitalOcean,152.42.128.0/20,152.42.128.0,20,4096,No region
 DigitalOcean,152.42.144.0/22,152.42.144.0,22,1024,No region
 DigitalOcean,152.42.148.0/22,152.42.148.0,22,1024,No region
+DigitalOcean,152.42.152.0/22,152.42.152.0,22,1024,No region
 DigitalOcean,152.42.160.0/19,152.42.160.0,19,8192,No region
 DigitalOcean,152.42.192.0/19,152.42.192.0,19,8192,No region
+DigitalOcean,152.42.224.0/20,152.42.224.0,20,4096,No region
 DigitalOcean,157.230.0.0/20,157.230.0.0,20,4096,No region
 DigitalOcean,157.230.112.0/20,157.230.112.0,20,4096,No region
 DigitalOcean,157.230.128.0/20,157.230.128.0,20,4096,No region
@@ -62947,12 +62949,10 @@ DigitalOcean,95.85.12.0/24,95.85.12.0,24,256,No region
 DigitalOcean,95.85.13.0/24,95.85.13.0,24,256,No region
 DigitalOcean,95.85.14.0/24,95.85.14.0,24,256,No region
 DigitalOcean,95.85.15.0/24,95.85.15.0,24,256,No region
-DigitalOcean,95.85.16.0/20,95.85.16.0,20,4096,No region
 DigitalOcean,95.85.16.0/24,95.85.16.0,24,256,No region
 DigitalOcean,95.85.17.0/24,95.85.17.0,24,256,No region
 DigitalOcean,95.85.18.0/24,95.85.18.0,24,256,No region
 DigitalOcean,95.85.19.0/24,95.85.19.0,24,256,No region
-DigitalOcean,95.85.2.0/23,95.85.2.0,23,512,No region
 DigitalOcean,95.85.2.0/24,95.85.2.0,24,256,No region
 DigitalOcean,95.85.20.0/24,95.85.20.0,24,256,No region
 DigitalOcean,95.85.21.0/24,95.85.21.0,24,256,No region
@@ -62967,7 +62967,6 @@ DigitalOcean,95.85.29.0/24,95.85.29.0,24,256,No region
 DigitalOcean,95.85.3.0/24,95.85.3.0,24,256,No region
 DigitalOcean,95.85.30.0/24,95.85.30.0,24,256,No region
 DigitalOcean,95.85.31.0/24,95.85.31.0,24,256,No region
-DigitalOcean,95.85.32.0/19,95.85.32.0,19,8192,No region
 DigitalOcean,95.85.32.0/24,95.85.32.0,24,256,No region
 DigitalOcean,95.85.33.0/24,95.85.33.0,24,256,No region
 DigitalOcean,95.85.34.0/24,95.85.34.0,24,256,No region
@@ -62976,7 +62975,6 @@ DigitalOcean,95.85.36.0/24,95.85.36.0,24,256,No region
 DigitalOcean,95.85.37.0/24,95.85.37.0,24,256,No region
 DigitalOcean,95.85.38.0/24,95.85.38.0,24,256,No region
 DigitalOcean,95.85.39.0/24,95.85.39.0,24,256,No region
-DigitalOcean,95.85.4.0/22,95.85.4.0,22,1024,No region
 DigitalOcean,95.85.4.0/24,95.85.4.0,24,256,No region
 DigitalOcean,95.85.40.0/24,95.85.40.0,24,256,No region
 DigitalOcean,95.85.41.0/24,95.85.41.0,24,256,No region
@@ -63005,7 +63003,6 @@ DigitalOcean,95.85.61.0/24,95.85.61.0,24,256,No region
 DigitalOcean,95.85.62.0/24,95.85.62.0,24,256,No region
 DigitalOcean,95.85.63.0/24,95.85.63.0,24,256,No region
 DigitalOcean,95.85.7.0/24,95.85.7.0,24,256,No region
-DigitalOcean,95.85.8.0/21,95.85.8.0,21,2048,No region
 DigitalOcean,95.85.8.0/24,95.85.8.0,24,256,No region
 DigitalOcean,95.85.9.0/24,95.85.9.0,24,256,No region
 Fastly,103.244.50.0/24,103.244.50.0,24,256,No region

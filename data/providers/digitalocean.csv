@@ -642,6 +642,7 @@ DigitalOcean,167.99.96.0/20,167.99.96.0,20,4096,No region
 DigitalOcean,170.64.128.0/18,170.64.128.0,18,16384,No region
 DigitalOcean,170.64.192.0/19,170.64.192.0,19,8192,No region
 DigitalOcean,170.64.224.0/20,170.64.224.0,20,4096,No region
+DigitalOcean,170.64.240.0/21,170.64.240.0,21,2048,No region
 DigitalOcean,170.64.248.0/21,170.64.248.0,21,2048,No region
 DigitalOcean,174.138.0.0/20,174.138.0.0,20,4096,No region
 DigitalOcean,174.138.100.0/22,174.138.100.0,22,1024,No region

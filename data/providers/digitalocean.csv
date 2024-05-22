@@ -172,8 +172,7 @@ DigitalOcean,138.68.80.0/20,138.68.80.0,20,4096,No region
 DigitalOcean,138.68.96.0/20,138.68.96.0,20,4096,No region
 DigitalOcean,139.59.0.0/20,139.59.0.0,20,4096,No region
 DigitalOcean,139.59.112.0/20,139.59.112.0,20,4096,No region
-DigitalOcean,139.59.128.0/20,139.59.128.0,20,4096,No region
-DigitalOcean,139.59.144.0/20,139.59.144.0,20,4096,No region
+DigitalOcean,139.59.128.0/19,139.59.128.0,19,8192,No region
 DigitalOcean,139.59.16.0/20,139.59.16.0,20,4096,No region
 DigitalOcean,139.59.160.0/20,139.59.160.0,20,4096,No region
 DigitalOcean,139.59.176.0/20,139.59.176.0,20,4096,No region
@@ -963,6 +962,7 @@ DigitalOcean,209.38.192.0/19,209.38.192.0,19,8192,No region
 DigitalOcean,209.38.224.0/19,209.38.224.0,19,8192,No region
 DigitalOcean,209.38.32.0/20,209.38.32.0,20,4096,No region
 DigitalOcean,209.38.4.0/22,209.38.4.0,22,1024,No region
+DigitalOcean,209.38.48.0/22,209.38.48.0,22,1024,No region
 DigitalOcean,209.38.8.0/21,209.38.8.0,21,2048,No region
 DigitalOcean,209.97.128.0/20,209.97.128.0,20,4096,No region
 DigitalOcean,209.97.144.0/20,209.97.144.0,20,4096,No region
@@ -1026,14 +1026,12 @@ DigitalOcean,45.55.32.0/19,45.55.32.0,19,8192,No region
 DigitalOcean,45.55.64.0/19,45.55.64.0,19,8192,No region
 DigitalOcean,45.55.96.0/22,45.55.96.0,22,1024,No region
 DigitalOcean,46.101.0.0/18,46.101.0.0,18,16384,No region
-DigitalOcean,46.101.112.0/20,46.101.112.0,20,4096,No region
-DigitalOcean,46.101.128.0/18,46.101.128.0,18,16384,No region
-DigitalOcean,46.101.192.0/18,46.101.192.0,18,16384,No region
+DigitalOcean,46.101.128.0/17,46.101.128.0,17,32768,No region
 DigitalOcean,46.101.64.0/22,46.101.64.0,22,1024,No region
 DigitalOcean,46.101.68.0/22,46.101.68.0,22,1024,No region
 DigitalOcean,46.101.72.0/21,46.101.72.0,21,2048,No region
 DigitalOcean,46.101.80.0/20,46.101.80.0,20,4096,No region
-DigitalOcean,46.101.96.0/20,46.101.96.0,20,4096,No region
+DigitalOcean,46.101.96.0/19,46.101.96.0,19,8192,No region
 DigitalOcean,5.101.104.0/22,5.101.104.0,22,1024,No region
 DigitalOcean,5.101.96.0/21,5.101.96.0,21,2048,No region
 DigitalOcean,64.225.0.0/20,64.225.0.0,20,4096,No region

@@ -824,6 +824,7 @@ DigitalOcean,209.38.4.0/22,209.38.4.0,22,1024,No region
 DigitalOcean,209.38.48.0/22,209.38.48.0,22,1024,No region
 DigitalOcean,209.38.64.0/20,209.38.64.0,20,4096,No region
 DigitalOcean,209.38.8.0/21,209.38.8.0,21,2048,No region
+DigitalOcean,209.38.96.0/20,209.38.96.0,20,4096,No region
 DigitalOcean,209.97.128.0/20,209.97.128.0,20,4096,No region
 DigitalOcean,209.97.144.0/20,209.97.144.0,20,4096,No region
 DigitalOcean,209.97.160.0/20,209.97.160.0,20,4096,No region

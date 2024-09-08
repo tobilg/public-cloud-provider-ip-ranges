@@ -66808,6 +66808,7 @@ Google Cloud,34.153.232.0/23,34.153.232.0,23,512,asia-southeast1
 Google Cloud,34.153.234.0/23,34.153.234.0,23,512,northamerica-south1
 Google Cloud,34.153.236.0/24,34.153.236.0,24,256,asia-southeast2
 Google Cloud,34.153.240.0/21,34.153.240.0,21,2048,us-central1
+Google Cloud,34.153.250.0/23,34.153.250.0,23,512,asia-south1
 Google Cloud,34.153.32.0/24,34.153.32.0,24,256,asia-south2
 Google Cloud,34.153.33.0/24,34.153.33.0,24,256,southamerica-west1
 Google Cloud,34.153.38.0/24,34.153.38.0,24,256,europe-west8
@@ -66815,6 +66816,7 @@ Google Cloud,34.153.40.0/23,34.153.40.0,23,512,asia-southeast1
 Google Cloud,34.153.42.0/23,34.153.42.0,23,512,northamerica-south1
 Google Cloud,34.153.44.0/24,34.153.44.0,24,256,asia-southeast2
 Google Cloud,34.153.48.0/21,34.153.48.0,21,2048,us-central1
+Google Cloud,34.153.58.0/23,34.153.58.0,23,512,asia-south1
 Google Cloud,34.154.0.0/16,34.154.0.0,16,65536,europe-west8
 Google Cloud,34.155.0.0/16,34.155.0.0,16,65536,europe-west9
 Google Cloud,34.157.0.0/21,34.157.0.0,21,2048,us-east4

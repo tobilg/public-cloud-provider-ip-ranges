@@ -4,7 +4,7 @@
 DATA_PATH="/tmp/duckdb-database-$(date '+%F').duckdb"
 
 # Download Azure page (URLs change every 14 days)
-curl -vvv -H "User-Agent: public-cloud-bot/1.0" https://www.microsoft.com/en-US/download/details.aspx?id=56519 -o /tmp/azure.html
+curl -vvv -L -H "User-Agent: public-cloud-bot/1.0" https://www.microsoft.com/en-US/download/details.aspx?id=56519 -o /tmp/azure.html
 
 # Get URL from Azure page code
 AZURE_URL=$(xmllint --html -xpath "//html/body/div[3]/div/div[2]/main/div/div[1]/div/div/div/section[3]/div/div/div/div/div/a/@href" /tmp/azure.html 2>/dev/null | sed 's/ href="\([^"]*\)"/\1\n/g')

@@ -28,6 +28,9 @@ jobs:
 
       - name: Export provider data
         run: bash scripts/export_provider_data.sh
+
+      - name: Create DuckDB database
+        run: bash scripts/create_database.sh
       
       - name: Check for changes
         id: check

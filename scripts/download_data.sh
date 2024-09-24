@@ -21,7 +21,10 @@ duckdb $DATA_PATH < queries/providers/aws.sql
 # Load azure data
 duckdb $DATA_PATH < queries/providers/azure.current.sql
 
-# # Load cloudflare data
+# Download Cloudflare data via curl, DuckDB gives a missign Content-Length header error
+curl -S -H "User-Agent: public-cloud-bot/1.0" https://www.cloudflare.com/ips-v4 -o /tmp/cloudflare.txt
+
+# Load cloudflare data
 duckdb $DATA_PATH < queries/providers/cloudflare.sql
 
 # Load digitalocean data

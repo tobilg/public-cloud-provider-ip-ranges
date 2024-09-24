@@ -8,7 +8,6 @@ curl -vvv -L -H "User-Agent: public-cloud-bot/1.0" https://www.microsoft.com/en-
 
 # Get URL from Azure page code
 AZURE_URL=$(xmllint --html -xpath "//html/body/div[3]/div/div[2]/main/div/div[1]/div/div/div/section[3]/div/div/div/div/div/a/@href" /tmp/azure.html 2>/dev/null | sed 's/ href="\([^"]*\)"/\1\n/g')
-echo $AZURE_URL
 
 # Populate Azure script
 sed -e "s|###AZURE_URL###|$AZURE_URL|" queries/providers/azure.sql > queries/providers/azure.current.sql

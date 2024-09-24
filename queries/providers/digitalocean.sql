@@ -1,16 +1,23 @@
 CREATE TABLE digitalocean_ip_data AS (
   SELECT DISTINCT
-    prefixes AS cidr_block,
-    STR_SPLIT(prefixes, '/')[1] AS ip_address,
-    CAST(STR_SPLIT(prefixes, '/')[2] AS INTEGER) AS ip_address_mask,
-    CAST(pow(2, 32-CAST(STR_SPLIT(prefixes, '/')[2] AS INTEGER)) AS INTEGER) AS ip_address_cnt,
-    'No region' AS region
+    cidr_block,
+    STR_SPLIT(cidr_block, '/')[1] AS ip_address,
+    CAST(STR_SPLIT(cidr_block, '/')[2] AS INTEGER) AS ip_address_mask,
+    CAST(pow(2, 32-CAST(STR_SPLIT(cidr_block, '/')[2] AS INTEGER)) AS INTEGER) AS ip_address_cnt,
+    region
   FROM (
     SELECT
-      column0 AS prefixes
+      cidr_block,
+      region
     FROM
-      read_csv_auto('https://digitalocean.com/geo/google.csv')
+      read_csv('https://digitalocean.com/geo/google.csv', header = false, delim = ',', columns = {
+        'cidr_block': VARCHAR,
+        'country': VARCHAR,
+        'region': VARCHAR,
+        'city': VARCHAR,
+        'unknown': VARCHAR
+      })
     WHERE
-      column0 NOT LIKE '%::%'
+      cidr_block NOT LIKE '%::%'
   )
 );

@@ -15,6 +15,20 @@ The following public cloud providers are covered by this repo:
 ## Generated data
 The generated data can be found in the [data](data/) directory.
 
+You can query the data with [SQL Workbench](https://sql-workbench.com/#queries=v0,ATTACH-'https%3A%2F%2Fraw.githubusercontent.com%2Ftobilg%2Fpublic%20cloud%20provider%20ip%20ranges%2Fmain%2Fdata%2Fdb%2Fip%20ranges.duckdb'-as-ip-(READ_ONLY)~,SELECT-*-from-%22ip%22.ip_data~) directly in the browser.
+
+Also, you can attach the generated DuckDB database with
+
+```sql
+ATTACH 'https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/db/ip-ranges.duckdb' as ip (READ_ONLY);
+```
+
+and then query the data with
+
+```sql
+SELECT * FROM ip.ip_data;
+```
+
 ### All providers combined
 * All: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/all.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/all.parquet) / [JSON](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/all.json)
 

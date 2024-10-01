@@ -10,6 +10,7 @@ The following public cloud providers are covered by this repo:
 * [DigitalOcean](https://digitalocean.com/geo/google.csv)
 * [Fastly](https://api.fastly.com/public-ip-list)
 * [Google Cloud](https://www.gstatic.com/ipranges/cloud.json)
+* [Linode](https://geoip.linode.com/)
 * [Oracle Cloud](https://docs.oracle.com/en-us/iaas/tools/public_ip_ranges.json)
 
 ## Generated data
@@ -39,6 +40,7 @@ SELECT * FROM ip.ip_data;
 * DigitalOcean: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/digitalocean.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/digitalocean.parquet) / [JSON](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/digitalocean.json)
 * Fastly: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/fastly.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/fastly.parquet) / [JSON](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/fastly.json)
 * Google Cloud: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/googlecloud.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/googlecloud.parquet) / [JSON](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/googlecloud.json)
+* Linode: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/linode.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/linode.parquet) / [JSON](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/linode.json)
 * Oracle Cloud: [CSV](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/oracle.csv) / [Parquet](https://github.com/tobilg/public-cloud-provider-ip-ranges/raw/main/data/providers/oracle.parquet) / [JSON](https://raw.githubusercontent.com/tobilg/public-cloud-provider-ip-ranges/main/data/providers/oracle.json)
 
 ## Data format

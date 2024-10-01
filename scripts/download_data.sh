@@ -36,6 +36,9 @@ duckdb $DATA_PATH < queries/providers/fastly.sql
 # Load googlecloud data
 duckdb $DATA_PATH < queries/providers/googlecloud.sql
 
+# Load Linode data
+duckdb $DATA_PATH < queries/providers/linode.sql
+
 # Load oracle data
 duckdb $DATA_PATH < queries/providers/oracle.sql
 

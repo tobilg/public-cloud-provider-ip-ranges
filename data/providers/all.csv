@@ -42973,12 +42973,14 @@ Google Cloud,34.128.64.0/18,34.128.64.0,18,16384,asia-southeast2
 Google Cloud,34.129.0.0/16,34.129.0.0,16,65536,australia-southeast2
 Google Cloud,34.13.0.0/18,34.13.0.0,18,16384,europe-west2
 Google Cloud,34.13.128.0/17,34.13.128.0,17,32768,europe-west4
+Google Cloud,34.13.68.0/22,34.13.68.0,22,1024,us-central1
 Google Cloud,34.130.0.0/16,34.130.0.0,16,65536,northamerica-northeast2
 Google Cloud,34.131.0.0/16,34.131.0.0,16,65536,asia-south2
 Google Cloud,34.132.0.0/14,34.132.0.0,14,262144,us-central1
 Google Cloud,34.136.0.0/16,34.136.0.0,16,65536,us-central1
 Google Cloud,34.137.0.0/16,34.137.0.0,16,65536,asia-east1
 Google Cloud,34.138.0.0/15,34.138.0.0,15,131072,us-east1
+Google Cloud,34.14.0.0/17,34.14.0.0,17,32768,europe-west1
 Google Cloud,34.140.0.0/16,34.140.0.0,16,65536,europe-west1
 Google Cloud,34.141.0.0/17,34.141.0.0,17,32768,europe-west3
 Google Cloud,34.141.128.0/17,34.141.128.0,17,32768,europe-west4

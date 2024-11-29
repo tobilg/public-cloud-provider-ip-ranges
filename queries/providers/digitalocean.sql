@@ -10,7 +10,7 @@ CREATE TABLE digitalocean_ip_data AS (
       cidr_block,
       region
     FROM
-      read_csv('https://digitalocean.com/geo/google.csv', header = false, delim = ',', columns = {
+      read_csv('https://digitalocean.com/geo/google.csv', header = false, delim = ',', ignore_errors = true, columns = {
         'cidr_block': VARCHAR,
         'country': VARCHAR,
         'region': VARCHAR,

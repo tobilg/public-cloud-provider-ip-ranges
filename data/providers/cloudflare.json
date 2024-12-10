@@ -1,5 +1,4 @@
 [
-	{"cidr_block":"104.24.0.0/14","ip_address":"104.24.0.0","ip_address_mask":14,"ip_address_cnt":262144,"region":"No region"},
 	{"cidr_block":"103.22.200.0/22","ip_address":"103.22.200.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"No region"},
 	{"cidr_block":"103.31.4.0/22","ip_address":"103.31.4.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"No region"},
 	{"cidr_block":"108.162.192.0/18","ip_address":"108.162.192.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"No region"},
@@ -7,10 +6,11 @@
 	{"cidr_block":"162.158.0.0/15","ip_address":"162.158.0.0","ip_address_mask":15,"ip_address_cnt":131072,"region":"No region"},
 	{"cidr_block":"104.16.0.0/13","ip_address":"104.16.0.0","ip_address_mask":13,"ip_address_cnt":524288,"region":"No region"},
 	{"cidr_block":"172.64.0.0/13","ip_address":"172.64.0.0","ip_address_mask":13,"ip_address_cnt":524288,"region":"No region"},
-	{"cidr_block":"103.21.244.0/22","ip_address":"103.21.244.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"No region"},
-	{"cidr_block":"197.234.240.0/22","ip_address":"197.234.240.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"No region"},
-	{"cidr_block":"131.0.72.0/22","ip_address":"131.0.72.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"No region"},
 	{"cidr_block":"141.101.64.0/18","ip_address":"141.101.64.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"No region"},
 	{"cidr_block":"190.93.240.0/20","ip_address":"190.93.240.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"No region"},
-	{"cidr_block":"188.114.96.0/20","ip_address":"188.114.96.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"No region"}
+	{"cidr_block":"188.114.96.0/20","ip_address":"188.114.96.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"No region"},
+	{"cidr_block":"104.24.0.0/14","ip_address":"104.24.0.0","ip_address_mask":14,"ip_address_cnt":262144,"region":"No region"},
+	{"cidr_block":"103.21.244.0/22","ip_address":"103.21.244.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"No region"},
+	{"cidr_block":"197.234.240.0/22","ip_address":"197.234.240.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"No region"},
+	{"cidr_block":"131.0.72.0/22","ip_address":"131.0.72.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"No region"}
 ]

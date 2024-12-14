@@ -219,6 +219,7 @@ Google Cloud,34.129.0.0/16,34.129.0.0,16,65536,australia-southeast2
 Google Cloud,34.13.0.0/18,34.13.0.0,18,16384,europe-west2
 Google Cloud,34.13.128.0/17,34.13.128.0,17,32768,europe-west4
 Google Cloud,34.13.68.0/22,34.13.68.0,22,1024,us-central1
+Google Cloud,34.13.72.0/21,34.13.72.0,21,2048,global
 Google Cloud,34.130.0.0/16,34.130.0.0,16,65536,northamerica-northeast2
 Google Cloud,34.131.0.0/16,34.131.0.0,16,65536,asia-south2
 Google Cloud,34.132.0.0/14,34.132.0.0,14,262144,us-central1
@@ -226,6 +227,7 @@ Google Cloud,34.136.0.0/16,34.136.0.0,16,65536,us-central1
 Google Cloud,34.137.0.0/16,34.137.0.0,16,65536,asia-east1
 Google Cloud,34.138.0.0/15,34.138.0.0,15,131072,us-east1
 Google Cloud,34.14.0.0/17,34.14.0.0,17,32768,europe-west1
+Google Cloud,34.14.128.0/18,34.14.128.0,18,16384,asia-south1
 Google Cloud,34.140.0.0/16,34.140.0.0,16,65536,europe-west1
 Google Cloud,34.141.0.0/17,34.141.0.0,17,32768,europe-west3
 Google Cloud,34.141.128.0/17,34.141.128.0,17,32768,europe-west4
@@ -268,6 +270,7 @@ Google Cloud,34.153.250.0/23,34.153.250.0,23,512,asia-south1
 Google Cloud,34.153.252.0/25,34.153.252.0,25,128,australia-southeast1
 Google Cloud,34.153.252.128/25,34.153.252.128,25,128,me-west1
 Google Cloud,34.153.253.0/24,34.153.253.0,24,256,europe-west4
+Google Cloud,34.153.254.0/23,34.153.254.0,23,512,europe-west2
 Google Cloud,34.153.32.0/24,34.153.32.0,24,256,asia-south2
 Google Cloud,34.153.33.0/24,34.153.33.0,24,256,southamerica-west1
 Google Cloud,34.153.38.0/24,34.153.38.0,24,256,europe-west8
@@ -365,6 +368,7 @@ Google Cloud,34.2.0.0/20,34.2.0.0,20,4096,northamerica-south1
 Google Cloud,34.2.128.0/17,34.2.128.0,17,32768,asia-southeast1
 Google Cloud,34.2.16.0/20,34.2.16.0,20,4096,asia-southeast1
 Google Cloud,34.2.32.0/20,34.2.32.0,20,4096,us-west8
+Google Cloud,34.2.48.0/20,34.2.48.0,20,4096,europe-north2
 Google Cloud,34.20.0.0/17,34.20.0.0,17,32768,northamerica-northeast1
 Google Cloud,34.20.128.0/17,34.20.128.0,17,32768,us-west2
 Google Cloud,34.21.0.0/17,34.21.0.0,17,32768,us-east4

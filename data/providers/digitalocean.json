@@ -802,6 +802,7 @@
 	{"cidr_block":"134.122.80.0/20","ip_address":"134.122.80.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"DE-HE"},
 	{"cidr_block":"134.122.96.0/20","ip_address":"134.122.96.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"GB-SLG"},
 	{"cidr_block":"134.199.136.0/22","ip_address":"134.199.136.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"US-CA"},
+	{"cidr_block":"134.199.140.0/22","ip_address":"134.199.140.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"US-CA"},
 	{"cidr_block":"134.209.16.0/20","ip_address":"134.209.16.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"GB-SLG"},
 	{"cidr_block":"134.209.32.0/20","ip_address":"134.209.32.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"US-NJ"},
 	{"cidr_block":"134.209.48.0/20","ip_address":"134.209.48.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"US-CA"},

@@ -28,7 +28,7 @@ COPY (SELECT * FROM google_ip_data ORDER BY cidr_block) TO 'data/providers/googl
 
 COPY (SELECT * FROM ip_data WHERE cloud_provider = 'Linode' ORDER BY cloud_provider, cidr_block) TO 'data/providers/linode.csv' WITH (HEADER 1, DELIMITER ',');
 COPY (SELECT * FROM ip_data WHERE cloud_provider = 'Linode' ORDER BY cloud_provider, cidr_block) TO 'data/providers/linode.parquet' (FORMAT 'parquet', COMPRESSION 'SNAPPY');
-COPY (SELECT * FROM oracle_ip_data ORDER BY cidr_block) TO 'data/providers/linode.json' (ARRAY true);
+COPY (SELECT * FROM linode_ip_data ORDER BY cidr_block) TO 'data/providers/linode.json' (ARRAY true);
 
 COPY (SELECT * FROM ip_data WHERE cloud_provider = 'Oracle' ORDER BY cloud_provider, cidr_block) TO 'data/providers/oracle.csv' WITH (HEADER 1, DELIMITER ',');
 COPY (SELECT * FROM ip_data WHERE cloud_provider = 'Oracle' ORDER BY cloud_provider, cidr_block) TO 'data/providers/oracle.parquet' (FORMAT 'parquet', COMPRESSION 'SNAPPY');

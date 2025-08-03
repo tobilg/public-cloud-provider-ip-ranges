@@ -3243,6 +3243,7 @@
 	{"cidr_block":"3.147.164.0/22","ip_address":"3.147.164.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"us-east-2"},
 	{"cidr_block":"3.147.244.0/22","ip_address":"3.147.244.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"us-east-2"},
 	{"cidr_block":"3.148.161.192/26","ip_address":"3.148.161.192","ip_address_mask":26,"ip_address_cnt":64,"region":"us-east-2"},
+	{"cidr_block":"3.149.210.128/26","ip_address":"3.149.210.128","ip_address_mask":26,"ip_address_cnt":64,"region":"us-east-2"},
 	{"cidr_block":"3.15.35.0/24","ip_address":"3.15.35.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-east-2"},
 	{"cidr_block":"3.15.36.0/26","ip_address":"3.15.36.0","ip_address_mask":26,"ip_address_cnt":64,"region":"us-east-2"},
 	{"cidr_block":"3.15.36.64/26","ip_address":"3.15.36.64","ip_address_mask":26,"ip_address_cnt":64,"region":"us-east-2"},

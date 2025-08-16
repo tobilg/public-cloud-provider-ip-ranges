@@ -60,6 +60,7 @@
 	{"cidr_block":"130.211.64.0/19","ip_address":"130.211.64.0","ip_address_mask":19,"ip_address_cnt":8192,"region":"europe-west1"},
 	{"cidr_block":"130.211.8.0/21","ip_address":"130.211.8.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"global"},
 	{"cidr_block":"130.211.96.0/20","ip_address":"130.211.96.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"europe-west1"},
+	{"cidr_block":"136.112.0.0/14","ip_address":"136.112.0.0","ip_address_mask":14,"ip_address_cnt":262144,"region":"us-central1"},
 	{"cidr_block":"146.148.112.0/20","ip_address":"146.148.112.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"europe-west1"},
 	{"cidr_block":"146.148.16.0/20","ip_address":"146.148.16.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"europe-west1"},
 	{"cidr_block":"146.148.2.0/23","ip_address":"146.148.2.0","ip_address_mask":23,"ip_address_cnt":512,"region":"europe-west1"},

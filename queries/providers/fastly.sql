@@ -11,4 +11,6 @@ CREATE TABLE fastly_ip_data AS (
     FROM
       read_json_auto('https://api.fastly.com/public-ip-list')
   )
+  ORDER BY 
+    cidr_block ASC
 );

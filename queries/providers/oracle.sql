@@ -23,5 +23,7 @@ CREATE TABLE oracle_ip_data AS (
           read_json_auto('https://docs.oracle.com/en-us/iaas/tools/public_ip_ranges.json', maximum_object_size=10000000)
       )
     )
-  )
+  ) prefixes
+  ORDER BY 
+    prefixes.cidr ASC
 );

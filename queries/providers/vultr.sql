@@ -20,5 +20,7 @@ CREATE TABLE vultr_ip_data AS (
       })
     WHERE
       cidr_block NOT LIKE '%::%'
-  )
+  ) prefixes
+  ORDER BY 
+    prefixes.cidr_block ASC
 );

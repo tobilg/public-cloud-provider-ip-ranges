@@ -11,4 +11,6 @@ CREATE TABLE cloudflare_ip_data AS (
     FROM
       read_csv_auto('/tmp/cloudflare.txt', columns = {'prefixes': 'VARCHAR'}, ignore_errors = true)
   )
+  ORDER BY 
+    cidr_block ASC
 );

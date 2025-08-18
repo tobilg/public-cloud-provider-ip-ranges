@@ -17,4 +17,6 @@ CREATE TABLE google_ip_data AS (
     WHERE
       prefix_object.ipv4Prefix IS NOT NULL
   ) prefixes
+  ORDER BY 
+    prefixes.cidr_block ASC
 );

@@ -15,4 +15,6 @@ CREATE TABLE linode_ip_data AS (
     })
   WHERE
     cidr_block NOT LIKE '%::%'
+  ORDER BY 
+    cidr_block ASC
 );

@@ -15,4 +15,6 @@ CREATE TABLE aws_ip_data AS (
       SELECT unnest(prefixes) AS prefix_object FROM 'https://ip-ranges.amazonaws.com/ip-ranges.json'
     )
   ) prefixes
+  ORDER BY 
+    prefixes.cidr_block ASC
 );

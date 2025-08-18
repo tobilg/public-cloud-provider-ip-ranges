@@ -27,7 +27,34 @@ CREATE TABLE azure_ip_data AS (
           SELECT 
             unnest(values) AS values
           FROM
-            read_json_auto('###AZURE_URL###', maximum_object_size=20000000)
+            read_json_auto('###AZURE_PUBLIC_CLOUD_URL###', maximum_object_size=20000000)
+        )
+        UNION ALL
+        SELECT 
+          values.properties AS prop
+        FROM (
+          SELECT 
+            unnest(values) AS values
+          FROM
+            read_json_auto('###AZURE_US_GOVERNMENT_CLOUD_URL###', maximum_object_size=20000000)
+        )
+        UNION ALL
+        SELECT 
+          values.properties AS prop
+        FROM (
+          SELECT 
+            unnest(values) AS values
+          FROM
+            read_json_auto('###AZURE_CHINA_CLOUD_URL###', maximum_object_size=20000000)
+        )
+        UNION ALL
+        SELECT 
+          values.properties AS prop
+        FROM (
+          SELECT 
+            unnest(values) AS values
+          FROM
+            read_json_auto('###AZURE_GERMANY_CLOUD_URL###', maximum_object_size=20000000)
         )
       )
     )

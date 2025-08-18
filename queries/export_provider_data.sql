@@ -33,3 +33,7 @@ COPY (SELECT * FROM oracle_ip_data) TO 'data/providers/linode.json' (ARRAY true)
 COPY (SELECT * FROM ip_data WHERE cloud_provider = 'Oracle' ORDER BY cloud_provider, cidr_block) TO 'data/providers/oracle.csv' WITH (HEADER 1, DELIMITER ',');
 COPY (SELECT * FROM ip_data WHERE cloud_provider = 'Oracle' ORDER BY cloud_provider, cidr_block) TO 'data/providers/oracle.parquet' (FORMAT 'parquet', COMPRESSION 'SNAPPY');
 COPY (SELECT * FROM oracle_ip_data) TO 'data/providers/oracle.json' (ARRAY true);
+
+COPY (SELECT * FROM ip_data WHERE cloud_provider = 'Vultr' ORDER BY cloud_provider, cidr_block) TO 'data/providers/vultr.csv' WITH (HEADER 1, DELIMITER ',');
+COPY (SELECT * FROM ip_data WHERE cloud_provider = 'Vultr' ORDER BY cloud_provider, cidr_block) TO 'data/providers/vultr.parquet' (FORMAT 'parquet', COMPRESSION 'SNAPPY');
+COPY (SELECT * FROM vultr_ip_data) TO 'data/providers/vultr.json' (ARRAY true);

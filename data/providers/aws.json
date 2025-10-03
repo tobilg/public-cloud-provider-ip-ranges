@@ -6590,6 +6590,7 @@
 	{"cidr_block":"68.79.2.244/30","ip_address":"68.79.2.244","ip_address_mask":30,"ip_address_cnt":4,"region":"cn-northwest-1"},
 	{"cidr_block":"68.79.2.248/29","ip_address":"68.79.2.248","ip_address_mask":29,"ip_address_cnt":8,"region":"cn-northwest-1"},
 	{"cidr_block":"68.79.2.64/27","ip_address":"68.79.2.64","ip_address_mask":27,"ip_address_cnt":32,"region":"cn-northwest-1"},
+	{"cidr_block":"69.0.136.0/22","ip_address":"69.0.136.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"eu-west-3"},
 	{"cidr_block":"69.107.10.0/29","ip_address":"69.107.10.0","ip_address_mask":29,"ip_address_cnt":8,"region":"us-west-1"},
 	{"cidr_block":"69.107.10.8/29","ip_address":"69.107.10.8","ip_address_mask":29,"ip_address_cnt":8,"region":"us-west-1"},
 	{"cidr_block":"69.107.3.176/29","ip_address":"69.107.3.176","ip_address_mask":29,"ip_address_cnt":8,"region":"us-east-1"},

@@ -6470,6 +6470,7 @@
 	{"cidr_block":"56.54.0.0/16","ip_address":"56.54.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"eu-west-1"},
 	{"cidr_block":"56.55.0.0/16","ip_address":"56.55.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"eu-west-1"},
 	{"cidr_block":"56.68.0.0/17","ip_address":"56.68.0.0","ip_address_mask":17,"ip_address_cnt":32768,"region":"ap-southeast-5"},
+	{"cidr_block":"56.68.36.0/23","ip_address":"56.68.36.0","ip_address_mask":23,"ip_address_cnt":512,"region":"ap-southeast-5"},
 	{"cidr_block":"56.69.0.0/16","ip_address":"56.69.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"ap-southeast-5"},
 	{"cidr_block":"56.70.0.0/16","ip_address":"56.70.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"ap-southeast-5"},
 	{"cidr_block":"56.71.0.0/16","ip_address":"56.71.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"ap-southeast-5"},

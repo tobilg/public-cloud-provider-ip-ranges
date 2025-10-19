@@ -51255,6 +51255,7 @@ Google Cloud,34.4.28.0/22,34.4.28.0,22,1024,us-west2
 Google Cloud,34.4.32.0/20,34.4.32.0,20,4096,us-east4
 Google Cloud,34.4.48.0/20,34.4.48.0,20,4096,europe-west2
 Google Cloud,34.4.64.0/20,34.4.64.0,20,4096,europe-central2
+Google Cloud,34.4.80.0/20,34.4.80.0,20,4096,europe-west4
 Google Cloud,34.40.0.0/17,34.40.0.0,17,32768,europe-west3
 Google Cloud,34.40.128.0/17,34.40.128.0,17,32768,australia-southeast1
 Google Cloud,34.41.0.0/16,34.41.0.0,16,65536,us-central1

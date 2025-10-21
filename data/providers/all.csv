@@ -2,7 +2,6 @@ cloud_provider,cidr_block,ip_address,ip_address_mask,ip_address_cnt,region
 AWS,1.178.1.0/24,1.178.1.0,24,256,us-west-2
 AWS,1.178.10.0/24,1.178.10.0,24,256,eu-central-1
 AWS,1.178.11.0/24,1.178.11.0,24,256,ap-southeast-2
-AWS,1.178.192.0/24,1.178.192.0,24,256,eu-west-1
 AWS,1.178.4.0/24,1.178.4.0,24,256,us-east-1
 AWS,1.178.5.0/24,1.178.5.0,24,256,us-east-1
 AWS,1.178.6.0/24,1.178.6.0,24,256,us-east-1

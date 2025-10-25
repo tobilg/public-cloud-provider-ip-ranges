@@ -372,7 +372,9 @@ Google Cloud,34.157.90.0/23,34.157.90.0,23,512,me-west1
 Google Cloud,34.157.92.0/22,34.157.92.0,22,1024,europe-west4
 Google Cloud,34.157.96.0/20,34.157.96.0,20,4096,us-central1
 Google Cloud,34.158.128.0/18,34.158.128.0,18,16384,europe-west4
+Google Cloud,34.158.16.0/20,34.158.16.0,20,4096,europe-west6
 Google Cloud,34.158.192.0/19,34.158.192.0,19,8192,asia-northeast3
+Google Cloud,34.158.224.0/20,34.158.224.0,20,4096,europe-central2
 Google Cloud,34.158.32.0/19,34.158.32.0,19,8192,asia-southeast1
 Google Cloud,34.158.64.0/18,34.158.64.0,18,16384,europe-west4
 Google Cloud,34.159.0.0/16,34.159.0.0,16,65536,europe-west3

@@ -394,6 +394,7 @@
 	{"cidr_block":"66.135.0.0/19","ip_address":"66.135.0.0","ip_address_mask":19,"ip_address_cnt":8192,"region":"US-NJ"},
 	{"cidr_block":"66.245.192.0/21","ip_address":"66.245.192.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"GB-GB-MAN"},
 	{"cidr_block":"66.245.200.0/21","ip_address":"66.245.200.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"IT-IT-MI"},
+	{"cidr_block":"66.245.208.0/23","ip_address":"66.245.208.0","ip_address_mask":23,"ip_address_cnt":512,"region":"US-US-MO"},
 	{"cidr_block":"66.42.112.0/20","ip_address":"66.42.112.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"US-IL"},
 	{"cidr_block":"66.42.32.0/20","ip_address":"66.42.32.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"JP-13"},
 	{"cidr_block":"66.42.48.0/20","ip_address":"66.42.48.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"SG-05"},

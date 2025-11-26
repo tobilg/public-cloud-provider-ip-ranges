@@ -6172,7 +6172,7 @@
 	{"cidr_block":"52.95.41.0/24","ip_address":"52.95.41.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-east-1"},
 	{"cidr_block":"52.95.42.0/24","ip_address":"52.95.42.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-1"},
 	{"cidr_block":"52.95.48.0/22","ip_address":"52.95.48.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"us-east-1"},
-	{"cidr_block":"52.95.52.0/22","ip_address":"52.95.52.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"us-east-1"},
+	{"cidr_block":"52.95.52.0/22","ip_address":"52.95.52.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"us-west-2"},
 	{"cidr_block":"52.95.56.0/22","ip_address":"52.95.56.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"ap-northeast-1"},
 	{"cidr_block":"52.95.60.0/24","ip_address":"52.95.60.0","ip_address_mask":24,"ip_address_cnt":256,"region":"eu-west-1"},
 	{"cidr_block":"52.95.61.0/24","ip_address":"52.95.61.0","ip_address_mask":24,"ip_address_cnt":256,"region":"eu-west-1"},

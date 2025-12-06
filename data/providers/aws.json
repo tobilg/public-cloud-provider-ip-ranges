@@ -4423,6 +4423,7 @@
 	{"cidr_block":"35.96.56.0/24","ip_address":"35.96.56.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-2"},
 	{"cidr_block":"35.96.58.0/23","ip_address":"35.96.58.0","ip_address_mask":23,"ip_address_cnt":512,"region":"eu-central-1"},
 	{"cidr_block":"35.96.6.0/24","ip_address":"35.96.6.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-2"},
+	{"cidr_block":"35.96.60.0/23","ip_address":"35.96.60.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-west-2"},
 	{"cidr_block":"35.96.64.0/20","ip_address":"35.96.64.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"eu-west-3"},
 	{"cidr_block":"35.96.7.0/24","ip_address":"35.96.7.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-2"},
 	{"cidr_block":"35.96.8.0/24","ip_address":"35.96.8.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-2"},

@@ -2500,8 +2500,6 @@
 	{"cidr_block":"172.235.0.0/24","ip_address":"172.235.0.0","ip_address_mask":24,"ip_address_cnt":256,"region":"IN-TN"},
 	{"cidr_block":"172.235.1.0/24","ip_address":"172.235.1.0","ip_address_mask":24,"ip_address_cnt":256,"region":"IN-TN"},
 	{"cidr_block":"172.235.10.0/24","ip_address":"172.235.10.0","ip_address_mask":24,"ip_address_cnt":256,"region":"IN-TN"},
-	{"cidr_block":"172.235.100.0/24","ip_address":"172.235.100.0","ip_address_mask":24,"ip_address_cnt":256,"region":"FR-13"},
-	{"cidr_block":"172.235.101.0/24","ip_address":"172.235.101.0","ip_address_mask":24,"ip_address_cnt":256,"region":"FR-13"},
 	{"cidr_block":"172.235.102.0/24","ip_address":"172.235.102.0","ip_address_mask":24,"ip_address_cnt":256,"region":"ZA-GP"},
 	{"cidr_block":"172.235.103.0/24","ip_address":"172.235.103.0","ip_address_mask":24,"ip_address_cnt":256,"region":"ZA-GP"},
 	{"cidr_block":"172.235.104.0/24","ip_address":"172.235.104.0","ip_address_mask":24,"ip_address_cnt":256,"region":"MY-14"},

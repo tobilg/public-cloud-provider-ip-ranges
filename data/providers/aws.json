@@ -1,6 +1,10 @@
 [
 	{"cidr_block":"1.178.1.0/24","ip_address":"1.178.1.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-2"},
 	{"cidr_block":"1.178.10.0/24","ip_address":"1.178.10.0","ip_address_mask":24,"ip_address_cnt":256,"region":"eu-central-1"},
+	{"cidr_block":"1.178.100.0/24","ip_address":"1.178.100.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-1"},
+	{"cidr_block":"1.178.101.0/24","ip_address":"1.178.101.0","ip_address_mask":24,"ip_address_cnt":256,"region":"ap-northeast-3"},
+	{"cidr_block":"1.178.102.0/24","ip_address":"1.178.102.0","ip_address_mask":24,"ip_address_cnt":256,"region":"ap-southeast-6"},
+	{"cidr_block":"1.178.103.0/24","ip_address":"1.178.103.0","ip_address_mask":24,"ip_address_cnt":256,"region":"ap-east-1"},
 	{"cidr_block":"1.178.11.0/24","ip_address":"1.178.11.0","ip_address_mask":24,"ip_address_cnt":256,"region":"ap-southeast-2"},
 	{"cidr_block":"1.178.174.0/24","ip_address":"1.178.174.0","ip_address_mask":24,"ip_address_cnt":256,"region":"eu-north-1"},
 	{"cidr_block":"1.178.4.0/24","ip_address":"1.178.4.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-east-1"},
@@ -19,6 +23,7 @@
 	{"cidr_block":"1.178.92.0/24","ip_address":"1.178.92.0","ip_address_mask":24,"ip_address_cnt":256,"region":"ca-central-1"},
 	{"cidr_block":"1.178.93.0/24","ip_address":"1.178.93.0","ip_address_mask":24,"ip_address_cnt":256,"region":"eu-north-1"},
 	{"cidr_block":"1.178.94.0/24","ip_address":"1.178.94.0","ip_address_mask":24,"ip_address_cnt":256,"region":"eu-west-2"},
+	{"cidr_block":"1.178.95.0/24","ip_address":"1.178.95.0","ip_address_mask":24,"ip_address_cnt":256,"region":"sa-east-1"},
 	{"cidr_block":"100.20.0.0/14","ip_address":"100.20.0.0","ip_address_mask":14,"ip_address_cnt":262144,"region":"us-west-2"},
 	{"cidr_block":"100.24.0.0/13","ip_address":"100.24.0.0","ip_address_mask":13,"ip_address_cnt":524288,"region":"us-east-1"},
 	{"cidr_block":"100.27.238.0/23","ip_address":"100.27.238.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-east-1"},

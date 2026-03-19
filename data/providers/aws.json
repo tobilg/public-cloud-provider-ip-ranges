@@ -2605,6 +2605,7 @@
 	{"cidr_block":"16.64.102.0/23","ip_address":"16.64.102.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-gov-east-1"},
 	{"cidr_block":"16.64.36.0/23","ip_address":"16.64.36.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-gov-east-1"},
 	{"cidr_block":"16.65.0.0/16","ip_address":"16.65.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"us-gov-east-1"},
+	{"cidr_block":"16.65.74.0/23","ip_address":"16.65.74.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-gov-east-1"},
 	{"cidr_block":"16.66.0.0/16","ip_address":"16.66.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"us-gov-east-1"},
 	{"cidr_block":"16.67.0.0/16","ip_address":"16.67.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"us-gov-east-1"},
 	{"cidr_block":"16.71.0.0/18","ip_address":"16.71.0.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"us-west-2"},

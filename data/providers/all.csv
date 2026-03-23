@@ -55625,6 +55625,7 @@ Google Cloud,8.229.0.0/16,8.229.0.0,16,65536,us-west1
 Google Cloud,8.230.0.0/19,8.230.0.0,19,8192,asia-northeast3
 Google Cloud,8.230.32.0/19,8.230.32.0,19,8192,me-west1
 Google Cloud,8.230.64.0/19,8.230.64.0,19,8192,me-central2
+Google Cloud,8.230.96.0/19,8.230.96.0,19,8192,us-south1
 Google Cloud,8.34.208.0/23,8.34.208.0,23,512,europe-west1
 Google Cloud,8.34.210.0/24,8.34.210.0,24,256,us-central1
 Google Cloud,8.34.211.0/24,8.34.211.0,24,256,europe-west1

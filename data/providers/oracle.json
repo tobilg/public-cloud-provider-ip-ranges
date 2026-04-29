@@ -553,6 +553,7 @@
 	{"cidr_block":"147.224.68.0/22","ip_address":"147.224.68.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"ap-hyderabad-1"},
 	{"cidr_block":"147.224.8.0/21","ip_address":"147.224.8.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"us-sanjose-1"},
 	{"cidr_block":"147.5.128.0/17","ip_address":"147.5.128.0","ip_address_mask":17,"ip_address_cnt":32768,"region":"us-ashburn-1"},
+	{"cidr_block":"147.5.20.0/22","ip_address":"147.5.20.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"ap-mumbai-1"},
 	{"cidr_block":"147.5.28.0/22","ip_address":"147.5.28.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"ca-toronto-1"},
 	{"cidr_block":"147.5.96.0/19","ip_address":"147.5.96.0","ip_address_mask":19,"ip_address_cnt":8192,"region":"ca-toronto-1"},
 	{"cidr_block":"148.116.104.0/21","ip_address":"148.116.104.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"sa-valparaiso-1"},

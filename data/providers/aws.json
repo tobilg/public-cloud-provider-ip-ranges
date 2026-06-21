@@ -7116,6 +7116,7 @@
 	{"cidr_block":"64.73.195.0/24","ip_address":"64.73.195.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-1"},
 	{"cidr_block":"64.73.196.0/24","ip_address":"64.73.196.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-1"},
 	{"cidr_block":"64.73.197.0/24","ip_address":"64.73.197.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-1"},
+	{"cidr_block":"64.73.201.0/24","ip_address":"64.73.201.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-east-1"},
 	{"cidr_block":"64.73.202.0/24","ip_address":"64.73.202.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-east-1"},
 	{"cidr_block":"64.73.203.0/24","ip_address":"64.73.203.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-2"},
 	{"cidr_block":"64.73.204.0/24","ip_address":"64.73.204.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-west-2"},

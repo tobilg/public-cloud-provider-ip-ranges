@@ -632,6 +632,7 @@
 	{"cidr_block":"104.66.221.0/24","ip_address":"104.66.221.0","ip_address_mask":24,"ip_address_cnt":256,"region":"SG-SIN"},
 	{"cidr_block":"104.66.222.0/24","ip_address":"104.66.222.0","ip_address_mask":24,"ip_address_cnt":256,"region":"SG-SIN"},
 	{"cidr_block":"104.66.223.0/24","ip_address":"104.66.223.0","ip_address_mask":24,"ip_address_cnt":256,"region":"SG-SIN"},
+	{"cidr_block":"104.66.224.0/24","ip_address":"104.66.224.0","ip_address_mask":24,"ip_address_cnt":256,"region":"MX-QUE"},
 	{"cidr_block":"104.67.0.0/24","ip_address":"104.67.0.0","ip_address_mask":24,"ip_address_cnt":256,"region":"AU-NSW"},
 	{"cidr_block":"104.67.1.0/24","ip_address":"104.67.1.0","ip_address_mask":24,"ip_address_cnt":256,"region":"AU-NSW"},
 	{"cidr_block":"104.67.10.0/24","ip_address":"104.67.10.0","ip_address_mask":24,"ip_address_cnt":256,"region":"AU-NSW"},

@@ -3024,6 +3024,7 @@
 	{"cidr_block":"18.220.0.0/14","ip_address":"18.220.0.0","ip_address_mask":14,"ip_address_cnt":262144,"region":"us-east-2"},
 	{"cidr_block":"18.224.0.0/14","ip_address":"18.224.0.0","ip_address_mask":14,"ip_address_cnt":262144,"region":"us-east-2"},
 	{"cidr_block":"18.226.2.0/23","ip_address":"18.226.2.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-east-2"},
+	{"cidr_block":"18.227.204.0/23","ip_address":"18.227.204.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-east-2"},
 	{"cidr_block":"18.228.0.0/16","ip_address":"18.228.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"sa-east-1"},
 	{"cidr_block":"18.228.1.0/29","ip_address":"18.228.1.0","ip_address_mask":29,"ip_address_cnt":8,"region":"sa-east-1"},
 	{"cidr_block":"18.228.1.16/29","ip_address":"18.228.1.16","ip_address_mask":29,"ip_address_cnt":8,"region":"sa-east-1"},

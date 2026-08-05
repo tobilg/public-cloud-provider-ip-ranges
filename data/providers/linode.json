@@ -2922,8 +2922,6 @@
 	{"cidr_block":"172.235.103.0/24","ip_address":"172.235.103.0","ip_address_mask":24,"ip_address_cnt":256,"region":"ZA-GP"},
 	{"cidr_block":"172.235.104.0/24","ip_address":"172.235.104.0","ip_address_mask":24,"ip_address_cnt":256,"region":"MY-14"},
 	{"cidr_block":"172.235.105.0/24","ip_address":"172.235.105.0","ip_address_mask":24,"ip_address_cnt":256,"region":"MY-14"},
-	{"cidr_block":"172.235.108.0/24","ip_address":"172.235.108.0","ip_address_mask":24,"ip_address_cnt":256,"region":"CO-DC"},
-	{"cidr_block":"172.235.109.0/24","ip_address":"172.235.109.0","ip_address_mask":24,"ip_address_cnt":256,"region":"CO-DC"},
 	{"cidr_block":"172.235.11.0/24","ip_address":"172.235.11.0","ip_address_mask":24,"ip_address_cnt":256,"region":"IN-TN"},
 	{"cidr_block":"172.235.110.0/24","ip_address":"172.235.110.0","ip_address_mask":24,"ip_address_cnt":256,"region":"MX-QUE"},
 	{"cidr_block":"172.235.111.0/24","ip_address":"172.235.111.0","ip_address_mask":24,"ip_address_cnt":256,"region":"MX-QUE"},

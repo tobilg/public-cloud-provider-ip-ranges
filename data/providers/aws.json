@@ -4891,6 +4891,7 @@
 	{"cidr_block":"43.196.14.0/23","ip_address":"43.196.14.0","ip_address_mask":23,"ip_address_cnt":512,"region":"cn-north-1"},
 	{"cidr_block":"43.196.16.0/23","ip_address":"43.196.16.0","ip_address_mask":23,"ip_address_cnt":512,"region":"cn-north-1"},
 	{"cidr_block":"43.196.168.0/25","ip_address":"43.196.168.0","ip_address_mask":25,"ip_address_cnt":128,"region":"cn-north-1"},
+	{"cidr_block":"43.196.172.0/22","ip_address":"43.196.172.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"cn-north-1"},
 	{"cidr_block":"43.196.18.0/24","ip_address":"43.196.18.0","ip_address_mask":24,"ip_address_cnt":256,"region":"cn-north-1"},
 	{"cidr_block":"43.196.19.0/24","ip_address":"43.196.19.0","ip_address_mask":24,"ip_address_cnt":256,"region":"cn-north-1"},
 	{"cidr_block":"43.196.20.176/30","ip_address":"43.196.20.176","ip_address_mask":30,"ip_address_cnt":4,"region":"cn-north-1"},

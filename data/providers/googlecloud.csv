@@ -999,6 +999,7 @@ Google Cloud,8.235.128.0/17,8.235.128.0,17,32768,europe-west1
 Google Cloud,8.236.144.0/20,8.236.144.0,20,4096,europe-west4
 Google Cloud,8.236.192.0/18,8.236.192.0,18,16384,us-south1
 Google Cloud,8.237.0.0/18,8.237.0.0,18,16384,asia-northeast1
+Google Cloud,8.237.64.0/18,8.237.64.0,18,16384,us-south1
 Google Cloud,8.34.208.0/23,8.34.208.0,23,512,europe-west1
 Google Cloud,8.34.210.0/24,8.34.210.0,24,256,us-central1
 Google Cloud,8.34.211.0/24,8.34.211.0,24,256,europe-west1

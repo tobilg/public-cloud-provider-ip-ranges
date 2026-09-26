@@ -7482,6 +7482,7 @@
 	{"cidr_block":"83.118.240.0/22","ip_address":"83.118.240.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"eusc-de-east-1"},
 	{"cidr_block":"83.119.128.0/18","ip_address":"83.119.128.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"eu-central-1"},
 	{"cidr_block":"83.160.0.0/15","ip_address":"83.160.0.0","ip_address_mask":15,"ip_address_cnt":131072,"region":"sa-west-1"},
+	{"cidr_block":"83.160.88.0/23","ip_address":"83.160.88.0","ip_address_mask":23,"ip_address_cnt":512,"region":"sa-west-1"},
 	{"cidr_block":"83.162.0.0/15","ip_address":"83.162.0.0","ip_address_mask":15,"ip_address_cnt":131072,"region":"sa-west-1"},
 	{"cidr_block":"86.112.0.0/15","ip_address":"86.112.0.0","ip_address_mask":15,"ip_address_cnt":131072,"region":"eu-north-1"},
 	{"cidr_block":"87.238.80.0/21","ip_address":"87.238.80.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"eu-west-1"},

@@ -5218,6 +5218,8 @@
 	{"cloud_provider":"AWS","cidr_block":"51.168.144.0/24","ip_address":"51.168.144.0","ip_address_mask":24,"ip_address_cnt":256,"region":"me-west-1"},
 	{"cloud_provider":"AWS","cidr_block":"51.168.145.0/24","ip_address":"51.168.145.0","ip_address_mask":24,"ip_address_cnt":256,"region":"me-west-1"},
 	{"cloud_provider":"AWS","cidr_block":"51.168.146.0/24","ip_address":"51.168.146.0","ip_address_mask":24,"ip_address_cnt":256,"region":"me-west-1"},
+	{"cloud_provider":"AWS","cidr_block":"51.168.170.0/23","ip_address":"51.168.170.0","ip_address_mask":23,"ip_address_cnt":512,"region":"me-west-1"},
+	{"cloud_provider":"AWS","cidr_block":"51.168.172.0/23","ip_address":"51.168.172.0","ip_address_mask":23,"ip_address_cnt":512,"region":"me-west-1"},
 	{"cloud_provider":"AWS","cidr_block":"51.17.0.0/24","ip_address":"51.17.0.0","ip_address_mask":24,"ip_address_cnt":256,"region":"il-central-1"},
 	{"cloud_provider":"AWS","cidr_block":"51.17.1.0/24","ip_address":"51.17.1.0","ip_address_mask":24,"ip_address_cnt":256,"region":"il-central-1"},
 	{"cloud_provider":"AWS","cidr_block":"51.17.129.160/28","ip_address":"51.17.129.160","ip_address_mask":28,"ip_address_cnt":16,"region":"il-central-1"},

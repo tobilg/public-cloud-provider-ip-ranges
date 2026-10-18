@@ -59362,6 +59362,7 @@
 	{"cloud_provider":"Google Cloud","cidr_block":"34.38.0.0/16","ip_address":"34.38.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"europe-west1"},
 	{"cloud_provider":"Google Cloud","cidr_block":"34.39.0.0/17","ip_address":"34.39.0.0","ip_address_mask":17,"ip_address_cnt":32768,"region":"europe-west2"},
 	{"cloud_provider":"Google Cloud","cidr_block":"34.39.128.0/17","ip_address":"34.39.128.0","ip_address_mask":17,"ip_address_cnt":32768,"region":"southamerica-east1"},
+	{"cloud_provider":"Google Cloud","cidr_block":"34.4.100.0/24","ip_address":"34.4.100.0","ip_address_mask":24,"ip_address_cnt":256,"region":"us-east7"},
 	{"cloud_provider":"Google Cloud","cidr_block":"34.4.102.0/23","ip_address":"34.4.102.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-east5"},
 	{"cloud_provider":"Google Cloud","cidr_block":"34.4.104.0/21","ip_address":"34.4.104.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"us-west1"},
 	{"cloud_provider":"Google Cloud","cidr_block":"34.4.128.0/18","ip_address":"34.4.128.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"asia-northeast3"},

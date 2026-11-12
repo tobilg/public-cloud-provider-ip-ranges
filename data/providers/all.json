@@ -2752,6 +2752,7 @@
 	{"cloud_provider":"AWS","cidr_block":"16.66.0.0/16","ip_address":"16.66.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"us-gov-east-1"},
 	{"cloud_provider":"AWS","cidr_block":"16.66.4.0/22","ip_address":"16.66.4.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"us-gov-east-1"},
 	{"cloud_provider":"AWS","cidr_block":"16.66.84.0/23","ip_address":"16.66.84.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-gov-east-1"},
+	{"cloud_provider":"AWS","cidr_block":"16.66.86.0/23","ip_address":"16.66.86.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-gov-east-1"},
 	{"cloud_provider":"AWS","cidr_block":"16.67.0.0/16","ip_address":"16.67.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"us-gov-east-1"},
 	{"cloud_provider":"AWS","cidr_block":"16.71.0.0/18","ip_address":"16.71.0.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"us-west-2"},
 	{"cloud_provider":"AWS","cidr_block":"16.71.64.0/18","ip_address":"16.71.64.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"us-west-2"},

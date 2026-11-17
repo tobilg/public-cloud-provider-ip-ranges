@@ -5351,6 +5351,7 @@
 	{"cidr_block":"51.72.40.144/28","ip_address":"51.72.40.144","ip_address_mask":28,"ip_address_cnt":16,"region":"eusc-de-east-1"},
 	{"cidr_block":"51.72.56.0/22","ip_address":"51.72.56.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"eusc-de-east-1"},
 	{"cidr_block":"51.72.74.0/23","ip_address":"51.72.74.0","ip_address_mask":23,"ip_address_cnt":512,"region":"eusc-de-east-1"},
+	{"cidr_block":"51.72.96.0/23","ip_address":"51.72.96.0","ip_address_mask":23,"ip_address_cnt":512,"region":"eusc-de-east-1"},
 	{"cidr_block":"51.72.98.0/23","ip_address":"51.72.98.0","ip_address_mask":23,"ip_address_cnt":512,"region":"eusc-de-east-1"},
 	{"cidr_block":"51.74.0.0/20","ip_address":"51.74.0.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"eusc-de-east-1"},
 	{"cidr_block":"51.74.128.0/18","ip_address":"51.74.128.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"eusc-de-east-1"},

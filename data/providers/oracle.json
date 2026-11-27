@@ -1,4 +1,5 @@
 [
+	{"cidr_block":"107.186.224.0/19","ip_address":"107.186.224.0","ip_address_mask":19,"ip_address_cnt":8192,"region":"us-shawnee-1"},
 	{"cidr_block":"129.144.0.0/16","ip_address":"129.144.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"us-ashburn-1"},
 	{"cidr_block":"129.145.16.0/21","ip_address":"129.145.16.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"us-ashburn-1"},
 	{"cidr_block":"129.145.74.0/23","ip_address":"129.145.74.0","ip_address_mask":23,"ip_address_cnt":512,"region":"us-ashburn-1"},
@@ -112,6 +113,7 @@
 	{"cidr_block":"129.159.48.0/20","ip_address":"129.159.48.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"sa-saopaulo-1"},
 	{"cidr_block":"129.159.64.0/18","ip_address":"129.159.64.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"us-ashburn-1"},
 	{"cidr_block":"129.191.0.0/17","ip_address":"129.191.0.0","ip_address_mask":17,"ip_address_cnt":32768,"region":"us-phoenix-1"},
+	{"cidr_block":"129.203.128.0/17","ip_address":"129.203.128.0","ip_address_mask":17,"ip_address_cnt":32768,"region":"ap-tokyo-1"},
 	{"cidr_block":"129.213.0.128/25","ip_address":"129.213.0.128","ip_address_mask":25,"ip_address_cnt":128,"region":"us-ashburn-1"},
 	{"cidr_block":"129.213.128.0/18","ip_address":"129.213.128.0","ip_address_mask":18,"ip_address_cnt":16384,"region":"us-ashburn-1"},
 	{"cidr_block":"129.213.16.0/20","ip_address":"129.213.16.0","ip_address_mask":20,"ip_address_cnt":4096,"region":"us-ashburn-1"},
@@ -1116,5 +1118,6 @@
 	{"cidr_block":"92.5.240.0/21","ip_address":"92.5.240.0","ip_address_mask":21,"ip_address_cnt":2048,"region":"eu-frankfurt-1"},
 	{"cidr_block":"92.5.248.0/22","ip_address":"92.5.248.0","ip_address_mask":22,"ip_address_cnt":1024,"region":"eu-frankfurt-1"},
 	{"cidr_block":"92.5.254.0/24","ip_address":"92.5.254.0","ip_address_mask":24,"ip_address_cnt":256,"region":"il-jerusalem-1"},
-	{"cidr_block":"92.5.255.0/24","ip_address":"92.5.255.0","ip_address_mask":24,"ip_address_cnt":256,"region":"eu-amsterdam-1"}
+	{"cidr_block":"92.5.255.0/24","ip_address":"92.5.255.0","ip_address_mask":24,"ip_address_cnt":256,"region":"eu-amsterdam-1"},
+	{"cidr_block":"92.6.0.0/16","ip_address":"92.6.0.0","ip_address_mask":16,"ip_address_cnt":65536,"region":"eu-frankfurt-1"}
 ]

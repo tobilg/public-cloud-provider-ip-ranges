@@ -1,4 +1,5 @@
 cloud_provider,cidr_block,ip_address,ip_address_mask,ip_address_cnt,region
+Oracle,107.186.224.0/19,107.186.224.0,19,8192,us-shawnee-1
 Oracle,129.144.0.0/16,129.144.0.0,16,65536,us-ashburn-1
 Oracle,129.145.16.0/21,129.145.16.0,21,2048,us-ashburn-1
 Oracle,129.145.74.0/23,129.145.74.0,23,512,us-ashburn-1
@@ -112,6 +113,7 @@ Oracle,129.159.32.0/20,129.159.32.0,20,4096,us-sanjose-1
 Oracle,129.159.48.0/20,129.159.48.0,20,4096,sa-saopaulo-1
 Oracle,129.159.64.0/18,129.159.64.0,18,16384,us-ashburn-1
 Oracle,129.191.0.0/17,129.191.0.0,17,32768,us-phoenix-1
+Oracle,129.203.128.0/17,129.203.128.0,17,32768,ap-tokyo-1
 Oracle,129.213.0.128/25,129.213.0.128,25,128,us-ashburn-1
 Oracle,129.213.128.0/18,129.213.128.0,18,16384,us-ashburn-1
 Oracle,129.213.16.0/20,129.213.16.0,20,4096,us-ashburn-1
@@ -1117,3 +1119,4 @@ Oracle,92.5.240.0/21,92.5.240.0,21,2048,eu-frankfurt-1
 Oracle,92.5.248.0/22,92.5.248.0,22,1024,eu-frankfurt-1
 Oracle,92.5.254.0/24,92.5.254.0,24,256,il-jerusalem-1
 Oracle,92.5.255.0/24,92.5.255.0,24,256,eu-amsterdam-1
+Oracle,92.6.0.0/16,92.6.0.0,16,65536,eu-frankfurt-1
